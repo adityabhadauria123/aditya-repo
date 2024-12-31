@@ -8,5 +8,5 @@ resource "azurem_resource_group" "dholu" {
 }
 resource "azurem_resource_group" "tondu" {
     name="tondu"
-    location="westus"
+    location="eastus"
 }
